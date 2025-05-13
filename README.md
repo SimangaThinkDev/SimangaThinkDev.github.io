@@ -1,6 +1,8 @@
 # 🧙 About Me:
 I'm currently a dev student at WeThinkCode_, Aspiring Ai Whisperer. Currently learning Data Science to create a strong foundation For my AI journey. I'm open to Mentorship and  training. I'm currently also learning some web dev fundamentals like CSS, HTML5, Javascript, and Django.
 
+# The dev
+![The Chosen One](me.jpeg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/siphakwe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simangaliso-innocent-phakwe/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@pythontb) 
